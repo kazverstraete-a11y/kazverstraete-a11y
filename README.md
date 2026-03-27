@@ -25,7 +25,7 @@ Gedisciplineerd, sterk in focus en patroonherkenning.
 ***
 ## KEY PROJECTS
 
-###[Reconstructing Training Behavior from Raw .FIT Data](https://medium.com/@kaz.verstraete)  
+### [Reconstructing Training Behavior from Raw .FIT Data](https://medium.com/@kaz.verstraete)  
 End-to-end data pipeline & Explainable ML model die rauwe sensordata transformeert naar fysiologische inzichten.
 
 - Verwerkte 880+ .FIT-bestanden (~miljoenen datapunten) naar geoptimaliseerde Parquet datasets  
@@ -35,7 +35,7 @@ End-to-end data pipeline & Explainable ML model die rauwe sensordata transformee
 
 ---
 
-###[Predictive Performance Modeling: World's Toughest Row (2025)](https://github.com/kazverstraete-a11y/worlds-toughest-row-weather-analysis)
+### [Predictive Performance Modeling: World's Toughest Row (2025)](https://github.com/kazverstraete-a11y/worlds-toughest-row-weather-analysis)
 
 - Pipeline die weersdata koppelt aan een dynamisch oceaantraject (custom KML-generator)  
 - Lineaire modellen om omgevings- en fysiologische effecten te scheiden  
@@ -43,7 +43,7 @@ End-to-end data pipeline & Explainable ML model die rauwe sensordata transformee
 
 ---
 
-###[Ocean Rowing Tracker: World's Toughest Row](https://github.com/kazverstraete-a11y/worlds-toughest-row-trackers)
+### [Ocean Rowing Tracker: World's Toughest Row](https://github.com/kazverstraete-a11y/worlds-toughest-row-trackers)
 
 - Predictieve tracking en visualisatie voor trans-Atlantische roeiers  
 - Real-time opvolging van voortgang  
@@ -51,7 +51,7 @@ End-to-end data pipeline & Explainable ML model die rauwe sensordata transformee
 
 ---
 
-### WERKERVARING
+## WERKERVARING
 
 - **Oprichter & Performance Coach | Nevernotmoving.be (2019 – 2025)**   
 Data-gedreven begeleiding van profielen met ambitie (Ironman Hawaii kwalificaties, sub-3u marathons).  
