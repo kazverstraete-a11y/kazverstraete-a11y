@@ -6,7 +6,7 @@ Brugge, België | +32 472 135 798 | kaz.verstraete@gmail.com
 GitHub: https://github.com/kazverstraete-a11y  
 Medium: https://medium.com/@kaz.verstraete
 ***
-## PROFIEL
+## Profiel
 Analytische denker met een sterke drang om complexe systemen te begrijpen en te vereenvoudigen.
   
 Met een academische achtergrond in Finance en Fysiologie, en ervaring als topatleet en coach, specialiseer ik mij in end-to-end data pipelines en explainable AI.
@@ -15,7 +15,7 @@ Mijn sterkte ligt in deep work: het vertalen van ruwe, chaotische sensordata naa
 Gedisciplineerd, sterk in focus en patroonherkenning.  
 "Ja is ja, neen is neen"-mentaliteit. 
 
-## TECHNISCHE SKILLS
+## Technische Skills
 
 * **Talen & Data:** Python (gevorderd), SQL, Parquet 
 * **Machine Learning:** Scikit-learn, PyTorch, Random Forest, SHAP (explainability)
@@ -23,7 +23,7 @@ Gedisciplineerd, sterk in focus en patroonherkenning.
 * **Visualisatie:** Tableau, Matplotlib, Seaborn
 * **Cloud & Tools:** Azure Data Science (DP-100 in progress), Git, VS Code  
 
-## KEY PROJECTS
+## Key Projects
 
 ### [Reconstructing Training Behavior from Raw .FIT Data (2026)](https://github.com/kazverstraete-a11y/cycling-performance-model)
 End-to-end data pipeline & Explainable ML model die rauwe sensordata transformeert naar fysiologische inzichten.
@@ -51,7 +51,7 @@ End-to-end data pipeline & Explainable ML model die rauwe sensordata transformee
 - Automatische rapportage voor team en thuisfront 
 
 
-## WERKERVARING
+## Werkervaring
 
 - **Oprichter & Performance Coach | Nevernotmoving.be (2019 – 2025)**   
 Data-gedreven begeleiding van profielen met ambitie (Ironman Hawaii kwalificaties, sub-3u marathons).  
@@ -67,7 +67,7 @@ Structureren van complexe onderhoudscontracten en assetbeheer
 Productieplanning, forecasting en SAP-integratie
 
 
-## OPLEIDINGEN & CERTIFICATEN
+## Opleidingen en certificaten
 - **Applied Data Science with Python (Specialization)** – University of Michigan, Coursera (2026)
 - **Python for Everybody (Specialization)** – University of Michigan, Coursera (2026)
 - **Master TEW: Bedrijfsfinanciering (Corporate Finance)** – Universiteit Gent (2017)
@@ -77,6 +77,6 @@ Productieplanning, forecasting en SAP-integratie
 - **Trainer B Triatlon:** Vlaamse Trainersschool (2021)
 
 
-## TALEN & SPORTIEVE HIGHLIGHTS
+## Talen & Sportieve Highlights
 - Nederlands (moedertaal), Frans & Engels (C1), Italiaans (A1)
 - Finisher Ironman Maastricht (9u30) (2018), Halve Marathon (1u10’41”), 2e plaats Swiss Canyon Trail 82km (2022), 4e plaats UTMB Alsace Grand Est 174km (2023), IM 70.3 WC 2016 (Mooloolaba, Aus.),...
