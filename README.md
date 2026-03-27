@@ -66,6 +66,6 @@ Productieplanning en sales forecasting voor de Europese markt, integratie van ac
 * **Python for Everybody (Specialization)** – University of Michigan, Coursera (2026)
 * **Master TEW: Bedrijfsfinanciering (Corporate Finance)** – Universiteit Gent (2017)
 * **Bachelor Revalidatiewetenschappen & Kinesitherapie (1e jaar)** – Universiteit Gent (2024)
-    * *Topresultaten in wetenschappelijke vakken: Algemene pathofysiologie (18/20), Histopathologie (18/20), Statistiek (17/20), Anatomie (16/20).
+    * Topresultaten in wetenschappelijke vakken: Algemene pathofysiologie (18/20), Histopathologie (18/20), Statistiek (17/20), Anatomie (16/20).
 * **Pro Trainer Niveau 1 & 2: Préférences Motrices Naturelles** – Volodalen, Zwitserland (2024)
 * **Trainer B Triatlon:** Vlaamse Trainersschool (2021)
