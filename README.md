@@ -1,4 +1,4 @@
-<img width="1207" height="746" alt="image" src="https://github.com/user-attachments/assets/d7025f79-245a-46b4-bda4-73b710b28fe1" />### Hi there 👋
+### Hi there 👋
 
 # Kaz Verstraete  
 Data Scientist | Performance Physiologist | Systems Architect  
