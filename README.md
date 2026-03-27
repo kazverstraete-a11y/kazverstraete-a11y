@@ -31,8 +31,8 @@ End-to-end data pipeline & Explainable ML model die rauwe sensordata transformee
 - Verwerkte 880+ .FIT-bestanden (~miljoenen datapunten) naar geoptimaliseerde Parquet datasets  
 - Ontwikkelde een intervalclassifier die 42.000+ inspanningen identificeert in 17 categorieën  
 - Bouwde een Random Forest model voor adaptatie-indicatoren (5-fold cross-validatie)  
-- Technisch gevalideerd door industrie-experts (Databricks) en academische peers
--  **[📄 Download Technical Paper: From Raw FIT files to Explainable AI](./From Raw FIT files to Explainable AI_ Reconstructing real training behavior from raw data.pdf)
+- Technisch gevalideerd door industrie-experts en academische peers (Medium)
+- **[📄 Download Technical Paper: From Raw FIT files to Explainable AI](https://github.com/kazverstraete-a11y/cycling-performance-model/blob/main/From%20Raw%20FIT%20files%20to%20Explainable%20AI_%20Reconstructing%20real%20training%20behavior%20from%20raw%20data.pdf)**
 
 ---
 
