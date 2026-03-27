@@ -25,13 +25,14 @@ Gedisciplineerd, sterk in focus en patroonherkenning.
 ***
 ## KEY PROJECTS
 
-### [Reconstructing Training Behavior from Raw .FIT Data](https://medium.com/@kaz.verstraete)  
+### [Reconstructing Training Behavior from Raw .FIT Data](https://github.com/kazverstraete-a11y/cycling-performance-model)
 End-to-end data pipeline & Explainable ML model die rauwe sensordata transformeert naar fysiologische inzichten.
 
 - Verwerkte 880+ .FIT-bestanden (~miljoenen datapunten) naar geoptimaliseerde Parquet datasets  
 - Ontwikkelde een intervalclassifier die 42.000+ inspanningen identificeert in 17 categorieën  
 - Bouwde een Random Forest model voor adaptatie-indicatoren (5-fold cross-validatie)  
 - Technisch gevalideerd door industrie-experts (Databricks) en academische peers
+-  **[📄 Download Technical Paper: From Raw FIT files to Explainable AI](./From Raw FIT files to Explainable AI_ Reconstructing real training behavior from raw data.pdf)
 
 ---
 
