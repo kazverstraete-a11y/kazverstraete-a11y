@@ -60,7 +60,8 @@ Structureren van complexe onderhoudscontracten en inventarisatie voor vloot- en 
 
 * **Supply Planning Officer | Daikin Europe (2017 – 2018)**  
 Productieplanning en sales forecasting voor de Europese markt, integratie van acquisities in SAP.
-*** OPLEIDINGEN & CERTIFICATEN
+***
+### OPLEIDINGEN & CERTIFICATEN
 * **Applied Data Science with Python (Specialization)** – University of Michigan, Coursera (2026)
 * **Python for Everybody (Specialization)** – University of Michigan, Coursera (2026)
 * **Master TEW: Bedrijfsfinanciering (Corporate Finance)** – Universiteit Gent (2017)
