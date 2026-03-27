@@ -7,7 +7,7 @@ GitHub: https://github.com/kazverstraete-a11y
 Medium: https://medium.com/@kaz.verstraete
 ***
 ## PROFIEL
-Analytische “outlier” met een sterke drang om complexe systemen te begrijpen en te vereenvoudigen.
+Analytische denker met een sterke drang om complexe systemen te begrijpen en te vereenvoudigen.
   
 Met een academische achtergrond in Finance en Fysiologie, en ervaring als topatleet en coach, specialiseer ik mij in end-to-end data pipelines en explainable AI.
 Mijn sterkte ligt in deep work: het vertalen van ruwe, chaotische sensordata naar actiegerichte fysiologische inzichten — en die helder maken voor anderen. 
