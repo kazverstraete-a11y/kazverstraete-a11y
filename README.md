@@ -8,7 +8,8 @@ GitHub: https://github.com/kazverstraete-a11y | Medium: https://medium.com/@kaz.
 ### PROFIEL
 Analytische "outlier" met een passie voor het kraken van complexe systemen.  
   
-Na een carrière als (top)sportcoach en een academische achtergrond in Finance en Fysiologie, heb ik me gespecialiseerd in End-to-End Data Pipelines en Explainable AI. Mijn kracht ligt in "deep work" en vertalen: het transformeren van chaotische sensordata naar actiegerichte fysiologische inzichten en deze vertalen voor het grote publiek.  
+Na een carrière als (top)sportcoach en een academische achtergrond in Finance en Fysiologie, heb ik me gespecialiseerd in End-to-End Data Pipelines en Explainable AI. Mijn kracht ligt in "deep work" en vertalen:  
+het transformeren van chaotische sensordata naar actiegerichte fysiologische inzichten en deze vertalen voor het grote publiek.  
   
 Gedisciplineerd en groot vermogen tot focus, patroonherkenning en een "ja is ja, nee is nee" mentaliteit. 
 
@@ -29,10 +30,17 @@ Gedisciplineerd en groot vermogen tot focus, patroonherkenning en een "ja is ja,
 * Implementeerde een **Random Forest Regressor** om adaptatie-indicatoren te voorspellen, gevalideerd met **5-fold cross-validation** ($R^2$ 0.19 voor Efficiency Factor).  
 * Project technisch gevalideerd door industrie-experts van **Databricks** en de academische wereld (50 claps op Medium door MSc Statistics & Data Science).
 
+**[Predictive Performance Modeling: World's Toughest Row (2025)](
+
+Bouwde een pipeline die weersdata mapt op een dynamisch oceaantraject via een zelfgeschreven KML-generator.
+
+Gebruikte lineaire regressie om de invloed van omgevingsvariabelen te isoleren van menselijke fysiologische adaptatie.
+
+Visualiseerde de "fysiologische break-even" punten tijdens extreme duurbelasting.
+
 **Ocean Rowing Tracker: World's Toughest Row**
-* Predictive tracking en data-visualisatie voor trans-Atlantische roeiers (Worlds Toughest Row Atlantic 2025).
-* Real-time tracker voor dagelijkse voortgang van oceaanroeiers.
-* Gebruik van **Lineaire Regressie** om dagelijkse afstanden te voorspellen op basis van weersvariabelen vs. werkelijke prestaties.
+* Predictive tracking en data-visualisatie voor trans-Atlantische roeier (Worlds Toughest Row Atlantic 2025).
+* Real-time tracker voor dagelijkse voortgang van oceaanroeier.
 
 ### WERKERVARING
 * **Oprichter & Performance Coach | Nevernotmoving.be (2019 – 2025)**   
