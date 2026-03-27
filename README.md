@@ -31,18 +31,18 @@ Gedisciplineerd en groot vermogen tot focus, patroonherkenning.
 * Bouwde een **Interval Classifier** die via Python 42.000 unieke trainingsinspanningen identificeerde en labelt in 17 categorieën
 * Implementeerde een **Random Forest Regressor** om adaptatie-indicatoren te voorspellen, gevalideerd met **5-fold cross-validation** ($R^2$ 0.19 voor Efficiency Factor).  
 * Project technisch gevalideerd door industrie-experts van **Databricks** en de academische wereld (50 claps op Medium door MSc Statistics & Data Science).
-
+____
 **[Predictive Performance Modeling: World's Toughest Row (2025)](https://github.com/kazverstraete-a11y/worlds-toughest-row-weather-analysis)**
 
 * Pipeline die voor alle deelnemers weersdata mapt op een dynamisch oceaantraject via een zelfgeschreven KML-generator.
 * Gebruikte lineaire regressie om de invloed van omgevingsvariabelen te isoleren van menselijke fysiologische adaptatie.
 * Visualiseerde de "fysiologische break-even" punten tijdens extreme duurbelasting.
-
+____
 **[Ocean Rowing Tracker: World's Toughest Row](https://github.com/kazverstraete-a11y/worlds-toughest-row-trackers)**
 * Predictive tracking en data-visualisatie voor trans-Atlantische roeier (Worlds Toughest Row Atlantic 2025).
 * Real-time tracker voor dagelijkse voortgang van oceaanroeier.
 * Automatische generatie van een bericht om het thuisfront op de hoogte te houden
-
+***
 ### WERKERVARING
 * **Oprichter & Performance Coach | Nevernotmoving.be (2019 – 2025)**   
 Data-gedreven begeleiding van elite-atleten (Ironman Hawaii kwalificaties, sub-3u marathons).  
