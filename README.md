@@ -30,7 +30,7 @@ Gedisciplineerd en groot vermogen tot focus, patroonherkenning en een "ja is ja,
 * Project technisch gevalideerd door industrie-experts van **Databricks** en de academische wereld (50 claps op Medium door MSc Statistics & Data Science).
 
 **Ocean Rowing Tracker: World's Toughest Row**
-* Predictive tracking en data-visualisatie voor trans-Atlantische roeiers.*
+* Predictive tracking en data-visualisatie voor trans-Atlantische roeiers (Worlds Toughest Row Atlantic 2025).
 * Real-time tracker voor dagelijkse voortgang van oceaanroeiers.
 * Gebruik van **Lineaire Regressie** om dagelijkse afstanden te voorspellen op basis van weersvariabelen vs. werkelijke prestaties.
 
