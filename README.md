@@ -32,7 +32,7 @@ Gedisciplineerd en groot vermogen tot focus, patroonherkenning.
 * Implementeerde een **Random Forest Regressor** om adaptatie-indicatoren te voorspellen, gevalideerd met **5-fold cross-validation** ($R^2$ 0.19 voor Efficiency Factor).  
 * Project technisch gevalideerd door industrie-experts van **Databricks** en de academische wereld (50 claps op Medium door MSc Statistics & Data Science).
 
-**[Predictive Performance Modeling: World's Toughest Row (2025)](https://github.com/kazverstraete-a11y/worlds-toughest-row-weather-analysis)
+**[Predictive Performance Modeling: World's Toughest Row (2025)](https://github.com/kazverstraete-a11y/worlds-toughest-row-weather-analysis)**
 
 Bouwde een pipeline die weersdata mapt op een dynamisch oceaantraject via een zelfgeschreven KML-generator.
 
