@@ -13,7 +13,7 @@ heb ik me gespecialiseerd in End-to-End Data Pipelines en Explainable AI. Mijn k
   
 Gedisciplineerd en groot vermogen tot focus, patroonherkenning.  
 "Ja is ja, neen is neen" mentaliteit. 
-
+***
 ### TECHNISCHE SKILLS
 
 * **Talen & Databases:** Python (Expert), SQL, Parquet (Columnar storage)
