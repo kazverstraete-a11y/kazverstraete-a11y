@@ -12,7 +12,7 @@ Ik heb een academische achtergrond in Finance en Fysiologie en na een carriere a
 heb ik me gespecialiseerd in End-to-End Data Pipelines en Explainable AI. Mijn kracht ligt in "deep work" en vertalen: het transformeren van chaotische sensordata naar actiegerichte fysiologische inzichten en deze vertalen voor het grote publiek.  
   
 Gedisciplineerd en groot vermogen tot focus, patroonherkenning.  
-"Ja is ja, nee is nee" mentaliteit. 
+"Ja is ja, neen is neen" mentaliteit. 
 
 ### TECHNISCHE SKILLS
 
