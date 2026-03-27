@@ -25,7 +25,7 @@ Gedisciplineerd, sterk in focus en patroonherkenning.
 
 ## KEY PROJECTS
 
-### [Reconstructing Training Behavior from Raw .FIT Data](https://github.com/kazverstraete-a11y/cycling-performance-model)
+### [Reconstructing Training Behavior from Raw .FIT Data (2026)](https://github.com/kazverstraete-a11y/cycling-performance-model)
 End-to-end data pipeline & Explainable ML model die rauwe sensordata transformeert naar fysiologische inzichten.
 
 - Verwerkte 880+ .FIT-bestanden (~miljoenen datapunten) naar geoptimaliseerde Parquet datasets  
@@ -44,7 +44,7 @@ End-to-end data pipeline & Explainable ML model die rauwe sensordata transformee
 
 ---
 
-### [Ocean Rowing Tracker: World's Toughest Row](https://github.com/kazverstraete-a11y/worlds-toughest-row-trackers)
+### [Ocean Rowing Tracker: World's Toughest Row (2025)](https://github.com/kazverstraete-a11y/worlds-toughest-row-trackers)
 
 - Predictieve tracking en visualisatie voor trans-Atlantische roeiers  
 - Real-time opvolging van voortgang  
