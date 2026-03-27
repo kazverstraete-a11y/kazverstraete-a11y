@@ -14,3 +14,6 @@ Gedisciplineerd en groot vermogen tot focus, patroonherkenning en een "ja is ja,
 
 ## TECHNISCHE SKILLS
 **Talen & Databases:** Python (Expert), SQL, Parquet (Columnar storage)
+**Data Science:** Machine Learning (Random Forest, Scikit-learn), Feature Engineering (EWMA), SHAP values (Explainability)
+**Visualisatie:** Tableau Public, Matplotlib, Seaborn
+**Cloud & Tools:** Azure Data Science (DP-100 in progress), Git/GitHub, VS Code.
