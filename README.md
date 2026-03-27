@@ -40,9 +40,10 @@ Gebruikte lineaire regressie om de invloed van omgevingsvariabelen te isoleren v
 
 Visualiseerde de "fysiologische break-even" punten tijdens extreme duurbelasting.
 
-**Ocean Rowing Tracker: World's Toughest Row**
+**[Ocean Rowing Tracker: World's Toughest Row](https://github.com/kazverstraete-a11y/worlds-toughest-row-trackers)**
 * Predictive tracking en data-visualisatie voor trans-Atlantische roeier (Worlds Toughest Row Atlantic 2025).
 * Real-time tracker voor dagelijkse voortgang van oceaanroeier.
+* Automatische generatie van een bericht om het thuisfront op de hoogte te houden
 
 ### WERKERVARING
 * **Oprichter & Performance Coach | Nevernotmoving.be (2019 – 2025)**   
