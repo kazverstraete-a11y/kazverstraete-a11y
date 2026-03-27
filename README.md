@@ -69,3 +69,7 @@ Productieplanning en sales forecasting voor de Europese markt, integratie van ac
     * Topresultaten in wetenschappelijke vakken: Algemene pathofysiologie (18/20), Histopathologie (18/20), Statistiek (17/20), Anatomie (16/20), Biochemie (15/20)
 * **Pro Trainer Niveau 1 & 2: Préférences Motrices Naturelles** – Volodalen, Zwitserland (2024)
 * **Trainer B Triatlon:** Vlaamse Trainersschool (2021)
+***
+### SPORTIEVE HIGHLIGHTS & TALENKENNIS(DISCIPLINE & DOMAIN KNOWLEDGE)
+* Finisher Ironman Maastricht (9u30), Halve Marathon (1u10’41”), 2e plaats Swiss Canyon Trail 82km (2022), IM 70.3 WC 2016 (Mooloolaba, Aus.)
+* Nederlands: moedertaal, Frans & Engels (B1), Italiaans (A1)
