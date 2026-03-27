@@ -25,7 +25,7 @@ Gedisciplineerd en groot vermogen tot focus, patroonherkenning en een "ja is ja,
 Data-gedreven begeleiding van elite-atleten (Ironman Hawaii kwalificaties, sub-3u marathons).  
 Systeemgerichte aanpak om trainingsbelasting af te stemmen op individuele fysiologie en biomechanica.
 
-* **Decathlon Zwitserland | Lausanne & Villeneuve (VD)**  
+* **Decathlon Zwitserland | Lausanne & Villeneuve (VD) (2021 - 2023)**  
 Aanvullende job in combinatie met Nevernotmoving.be. Dit liet mij toe om mij nog meer te focussen op de sportieve carrière.  
 
 * **Projectmedewerker | De Lijn (2019 – 2020)**  
