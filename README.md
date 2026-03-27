@@ -3,7 +3,7 @@
 # Kaz Verstraete  
 Data Scientist | Performance Physiologist | Systems Architect  
 Brugge, België | +32 472 135 798 | kaz.verstraete@gmail.com  
-GitHub: [https://github.com/kazverstraete-a11y] | Medium: [https://medium.com/@kaz.verstraete]  
+GitHub: https://github.com/kazverstraete-a11y | Medium: https://medium.com/@kaz.verstraete
 
 ### PROFIEL
 Analytische "outlier" met een passie voor het kraken van complexe systemen.  
@@ -24,10 +24,10 @@ Gedisciplineerd en groot vermogen tot focus, patroonherkenning en een "ja is ja,
 
 **[Reconstructing Training Behavior from Raw .FIT Data](https://medium.com/@kaz.verstraete)**
 *End-to-end data pipeline & Explainable ML model die rauwe sensordata transformeert naar fysiologische inzichten.*
-* [cite_start]Ontwikkelde een pipeline voor de verwerking van **880 .FIT-bestanden** (~miljoenen observaties) naar een geoptimaliseerd Parquet-formaat[cite: 11, 132, 140, 143].
-* [cite_start]Bouwde een **Interval Classifier** die via Python 42.000 unieke trainingsinspanningen identificeert en labelt in 17 categorieën[cite: 442, 484].
-* [cite_start]Implementeerde een **Random Forest Regressor** om adaptatie-indicatoren te voorspellen, gevalideerd met **5-fold cross-validation** ($R^2$ 0.19 voor Efficiency Factor) [cite: 28, 813, 951-953].
-* Project technisch gevalideerd door industrie-experts van **Databricks** en de academische wereld (50 claps op Medium door MSc Statistics).
+* Ontwikkelde een pipeline voor de verwerking van **880 .FIT-bestanden** (~miljoenen observaties) naar een geoptimaliseerd Parquet-formaat.
+* Bouwde een **Interval Classifier** die via Python 42.000 unieke trainingsinspanningen identificeerde en labelt in 17 categorieën
+* Implementeerde een **Random Forest Regressor** om adaptatie-indicatoren te voorspellen, gevalideerd met **5-fold cross-validation** ($R^2$ 0.19 voor Efficiency Factor).  
+* Project technisch gevalideerd door industrie-experts van **Databricks** en de academische wereld (50 claps op Medium door MSc Statistics & Data Science).
 
 **Ocean Rowing Tracker: World's Toughest Row**
 * Predictive tracking en data-visualisatie voor trans-Atlantische roeiers.*
