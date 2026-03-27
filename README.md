@@ -21,11 +21,13 @@ Gedisciplineerd en groot vermogen tot focus, patroonherkenning en een "ja is ja,
 ### WERKERVARING
 * **Oprichter & Performance Coach | Nevernotmoving.be (2019 – 2025)**   
 Data-gedreven begeleiding van elite-atleten (Ironman Hawaii kwalificaties, sub-3u marathons).  
-Systeemgericht aanpak om trainingsbelasting af te stemmen op individuele fysiologie en biomechanica. 
+Systeemgerichte aanpak om trainingsbelasting af te stemmen op individuele fysiologie en biomechanica.
+
+* **Decathlon Zwitserland | Lausanne & Villeneuve (VD)**  
+Aanvullende job in combinatie met Nevernotmoving.be. Dit liet mij toe om mij nog meer te focussen op de sportieve carrière.  
 
 * **Projectmedewerker | De Lijn (2019 – 2020)**  
 Structureren van complexe onderhoudscontracten en inventarisatie voor vloot- en gebouwenbeheer.  
 
 * **Supply Planning Officer | Daikin Europe (2017 – 2018)**  
-
 Productieplanning en sales forecasting voor de Europese markt, integratie van acquisities in SAP.
