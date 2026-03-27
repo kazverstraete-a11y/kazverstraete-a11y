@@ -24,14 +24,15 @@ Gedisciplineerd en groot vermogen tot focus, patroonherkenning.
 
 ### KEY PROJECTS
 
-**[Reconstructing Training Behavior from Raw .FIT Data](https://medium.com/@kaz.verstraete)**
+**[Reconstructing Training Behavior from Raw .FIT Data](https://medium.com/@kaz.verstraete)**  
+
 *End-to-end data pipeline & Explainable ML model die rauwe sensordata transformeert naar fysiologische inzichten.*
 * Ontwikkelde een pipeline voor de verwerking van **880 .FIT-bestanden** (~miljoenen observaties) naar een geoptimaliseerd Parquet-formaat.
 * Bouwde een **Interval Classifier** die via Python 42.000 unieke trainingsinspanningen identificeerde en labelt in 17 categorieën
 * Implementeerde een **Random Forest Regressor** om adaptatie-indicatoren te voorspellen, gevalideerd met **5-fold cross-validation** ($R^2$ 0.19 voor Efficiency Factor).  
 * Project technisch gevalideerd door industrie-experts van **Databricks** en de academische wereld (50 claps op Medium door MSc Statistics & Data Science).
 
-**[Predictive Performance Modeling: World's Toughest Row (2025)](
+**[Predictive Performance Modeling: World's Toughest Row (2025)](https://github.com/kazverstraete-a11y/worlds-toughest-row-weather-analysis)
 
 Bouwde een pipeline die weersdata mapt op een dynamisch oceaantraject via een zelfgeschreven KML-generator.
 
