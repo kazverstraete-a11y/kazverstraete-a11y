@@ -14,7 +14,7 @@ Mijn sterkte ligt in deep work: het vertalen van ruwe, chaotische sensordata naa
   
 Gedisciplineerd, sterk in focus en patroonherkenning.  
 "Ja is ja, neen is neen"-mentaliteit. 
-***
+
 ## TECHNISCHE SKILLS
 
 * **Talen & Data:** Python (gevorderd), SQL, Parquet 
@@ -22,7 +22,7 @@ Gedisciplineerd, sterk in focus en patroonherkenning.
 * **Feature Engineering:** EWMA, fysiologische markers
 * **Visualisatie:** Tableau, Matplotlib, Seaborn
 * **Cloud & Tools:** Azure Data Science (DP-100 in progress), Git, VS Code  
-***
+
 ## KEY PROJECTS
 
 ### [Reconstructing Training Behavior from Raw .FIT Data](https://github.com/kazverstraete-a11y/cycling-performance-model)
@@ -50,7 +50,6 @@ End-to-end data pipeline & Explainable ML model die rauwe sensordata transformee
 - Real-time opvolging van voortgang  
 - Automatische rapportage voor team en thuisfront 
 
----
 
 ## WERKERVARING
 
@@ -67,7 +66,6 @@ Structureren van complexe onderhoudscontracten en assetbeheer
 - **Supply Planning Officer | Daikin Europe (2017 – 2018)**  
 Productieplanning, forecasting en SAP-integratie
 
----
 
 ## OPLEIDINGEN & CERTIFICATEN
 - **Applied Data Science with Python (Specialization)** – University of Michigan, Coursera (2026)
@@ -78,7 +76,6 @@ Productieplanning, forecasting en SAP-integratie
 - **Pro Trainer Niveau 1 & 2: Préférences Motrices Naturelles** – Volodalen, Zwitserland (2024)
 - **Trainer B Triatlon:** Vlaamse Trainersschool (2021)
 
----
 
 ## TALEN & SPORTIEVE HIGHLIGHTS
 - Nederlands (moedertaal), Frans & Engels (C1), Italiaans (A1)
