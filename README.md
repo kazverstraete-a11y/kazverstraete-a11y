@@ -80,5 +80,4 @@ Productieplanning, forecasting en SAP-integratie
 
 ## TALEN & SPORTIEVE HIGHLIGHTS
 - Nederlands (moedertaal), Frans & Engels (C1), Italiaans (A1)
-- Finisher Ironman Maastricht (9u30), Halve Marathon (1u10’41”), 2e plaats Swiss Canyon Trail 82km (2022),
-  , 4e plaats UTMB Alsace Grand Est 174km (2023), IM 70.3 WC 2016 (Mooloolaba, Aus.),...
+- Finisher Ironman Maastricht (9u30) (2018), Halve Marathon (1u10’41”), 2e plaats Swiss Canyon Trail 82km (2022), 4e plaats UTMB Alsace Grand Est 174km (2023), IM 70.3 WC 2016 (Mooloolaba, Aus.),...
