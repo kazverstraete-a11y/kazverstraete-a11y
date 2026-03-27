@@ -73,14 +73,13 @@ Productieplanning, forecasting en SAP-integratie
 - **Python for Everybody (Specialization)** – University of Michigan, Coursera (2026)
 - **Master TEW: Bedrijfsfinanciering (Corporate Finance)** – Universiteit Gent (2017)
 - **Bachelor Revalidatiewetenschappen & Kinesitherapie (1e jaar)** – Universiteit Gent (2024)
-    * Topresultaten in wetenschappelijke vakken: Algemene pathofysiologie (18/20), Histopathologie (18/20), Statistiek (17/20), Anatomie (16/20), Biochemie (15/20)
+    * Topresultaten in wetenschappelijke vakken
 - **Pro Trainer Niveau 1 & 2: Préférences Motrices Naturelles** – Volodalen, Zwitserland (2024)
 - **Trainer B Triatlon:** Vlaamse Trainersschool (2021)
-***
-### TALENKENNIS & SPORTIEVE HIGHLIGHTS(DISCIPLINE & DOMAIN KNOWLEDGE)
-* **Moedertaal:** Nederlands
-* **C1:** Frans & Engels
-* **A1:** Italiaans
-* Finisher Ironman Maastricht (9u30), Halve Marathon (1u10’41”), 2e plaats Swiss Canyon Trail 82km (2022),
+
+---
+
+## TALEN & SPORTIEVE HIGHLIGHTS
+- Nederlands (moedertaal), Frans & Engels (C1), Italiaans (A1)
+- Finisher Ironman Maastricht (9u30), Halve Marathon (1u10’41”), 2e plaats Swiss Canyon Trail 82km (2022),
   , 4e plaats UTMB Alsace Grand Est 174km (2023), IM 70.3 WC 2016 (Mooloolaba, Aus.),...
-***
