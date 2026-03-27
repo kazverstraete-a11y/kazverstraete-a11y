@@ -71,7 +71,8 @@ Productieplanning en sales forecasting voor de Europese markt, integratie van ac
 * **Trainer B Triatlon:** Vlaamse Trainersschool (2021)
 ***
 ### SPORTIEVE HIGHLIGHTS & TALENKENNIS(DISCIPLINE & DOMAIN KNOWLEDGE)
-* Finisher Ironman Maastricht (9u30), Halve Marathon (1u10’41”), 2e plaats Swiss Canyon Trail 82km (2022), IM 70.3 WC 2016 (Mooloolaba, Aus.), ...
+* Finisher Ironman Maastricht (9u30), Halve Marathon (1u10’41”), 2e plaats Swiss Canyon Trail 82km (2022),
+  , 4e plaats UTMB Alsace Grand Est 174km (2023), IM 70.3 WC 2016 (Mooloolaba, Aus.),...
 * Moedertaal: Nederlands
 * B1: Frans & Engels
 * A1: Italiaans
