@@ -49,6 +49,7 @@ End-to-end data pipeline & Explainable ML model die rauwe sensordata transformee
 - Real-time opvolging van voortgang  
 - Automatische rapportage voor team en thuisfront 
 
+---
 
 ## WERKERVARING
 
