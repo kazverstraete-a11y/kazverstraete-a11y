@@ -32,7 +32,7 @@ Gedisciplineerd en groot vermogen tot focus, patroonherkenning.
 * Implementeerde een **Random Forest Regressor** om adaptatie-indicatoren te voorspellen, gevalideerd met **5-fold cross-validation** ($R^2$ 0.19 voor Efficiency Factor).  
 * Project technisch gevalideerd door industrie-experts van **Databricks** en de academische wereld (50 claps op Medium door MSc Statistics & Data Science).
 
----
+<hr>
 
 **[Predictive Performance Modeling: World's Toughest Row (2025)](https://github.com/kazverstraete-a11y/worlds-toughest-row-weather-analysis)**
 
@@ -40,7 +40,7 @@ Gedisciplineerd en groot vermogen tot focus, patroonherkenning.
 * Gebruikte lineaire regressie om de invloed van omgevingsvariabelen te isoleren van menselijke fysiologische adaptatie.
 * Visualiseerde de "fysiologische break-even" punten tijdens extreme duurbelasting.
 
----
+<hr>
 
 **[Ocean Rowing Tracker: World's Toughest Row](https://github.com/kazverstraete-a11y/worlds-toughest-row-trackers)**
 * Predictive tracking en data-visualisatie voor trans-Atlantische roeier (Worlds Toughest Row Atlantic 2025).
