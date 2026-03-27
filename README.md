@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # Kaz Verstraete  
-Performance Data Scientist | Systems Architect  
+Data Scientist | Endurance Performance | Systems Architect
 Brugge, België | +32 472 135 798 | kaz.verstraete@gmail.com  
 GitHub: https://github.com/kazverstraete-a11y  
 Medium: https://medium.com/@kaz.verstraete
