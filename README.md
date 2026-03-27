@@ -72,7 +72,7 @@ Productieplanning en sales forecasting voor de Europese markt, integratie van ac
 ***
 ### TALENKENNIS & SPORTIEVE HIGHLIGHTS(DISCIPLINE & DOMAIN KNOWLEDGE)
 * **Moedertaal:** Nederlands
-* **B1:** Frans & Engels
+* **C1:** Frans & Engels
 * **A1:** Italiaans
 * Finisher Ironman Maastricht (9u30), Halve Marathon (1u10’41”), 2e plaats Swiss Canyon Trail 82km (2022),
   , 4e plaats UTMB Alsace Grand Est 174km (2023), IM 70.3 WC 2016 (Mooloolaba, Aus.),...
