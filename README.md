@@ -60,3 +60,11 @@ Structureren van complexe onderhoudscontracten en inventarisatie voor vloot- en 
 
 * **Supply Planning Officer | Daikin Europe (2017 – 2018)**  
 Productieplanning en sales forecasting voor de Europese markt, integratie van acquisities in SAP.
+*** OPLEIDINGEN & CERTIFICATEN
+* **Applied Data Science with Python (Specialization)** – University of Michigan, Coursera (2026)
+* **Python for Everybody (Specialization)** – University of Michigan, Coursera (2026)
+* **Master TEW: Bedrijfsfinanciering (Corporate Finance)** – Universiteit Gent (2017)
+* **Bachelor Revalidatiewetenschappen & Kinesitherapie (1e jaar)** – Universiteit Gent (2024)
+    * *Topresultaten in wetenschappelijke vakken: Algemene pathofysiologie (18/20), Histopathologie (18/20), Statistiek (17/20), Anatomie (16/20).
+* **Pro Trainer Niveau 1 & 2: Préférences Motrices Naturelles** – Volodalen, Zwitserland (2024)
+* **Trainer B Triatlon:** Vlaamse Trainersschool (2021)
