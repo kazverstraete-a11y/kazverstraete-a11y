@@ -52,6 +52,7 @@ End-to-end data pipeline & Explainable ML model die rauwe sensordata transformee
 ---
 
 ### WERKERVARING
+
 - **Oprichter & Performance Coach | Nevernotmoving.be (2019 – 2025)**   
 Data-gedreven begeleiding van profielen met ambitie (Ironman Hawaii kwalificaties, sub-3u marathons).  
 Systeemgerichte aanpak rond trainingsbelasting, fysiologie en biomechanica.
