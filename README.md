@@ -21,7 +21,7 @@ Gedisciplineerd en groot vermogen tot focus, patroonherkenning.
 * **Feature Engineering:** Exponentially Weighted Moving Averages (EWMA), fysiologische markers
 * **Visualisatie:** Tableau Public, Matplotlib, Seaborn
 * **Cloud & Tools:** Azure Data Science (DP-100 in progress), Git/GitHub, VS Code  
-
+***
 ### KEY PROJECTS
 
 **[Reconstructing Training Behavior from Raw .FIT Data](https://medium.com/@kaz.verstraete)**  
