@@ -34,11 +34,9 @@ Gedisciplineerd en groot vermogen tot focus, patroonherkenning.
 
 **[Predictive Performance Modeling: World's Toughest Row (2025)](https://github.com/kazverstraete-a11y/worlds-toughest-row-weather-analysis)**
 
-Bouwde een pipeline die weersdata mapt op een dynamisch oceaantraject via een zelfgeschreven KML-generator.
-
-Gebruikte lineaire regressie om de invloed van omgevingsvariabelen te isoleren van menselijke fysiologische adaptatie.
-
-Visualiseerde de "fysiologische break-even" punten tijdens extreme duurbelasting.
+* Pipeline die voor alle deelnemers weersdata mapt op een dynamisch oceaantraject via een zelfgeschreven KML-generator.
+* Gebruikte lineaire regressie om de invloed van omgevingsvariabelen te isoleren van menselijke fysiologische adaptatie.
+* Visualiseerde de "fysiologische break-even" punten tijdens extreme duurbelasting.
 
 **[Ocean Rowing Tracker: World's Toughest Row](https://github.com/kazverstraete-a11y/worlds-toughest-row-trackers)**
 * Predictive tracking en data-visualisatie voor trans-Atlantische roeier (Worlds Toughest Row Atlantic 2025).
