@@ -74,7 +74,7 @@ Productieplanning, forecasting en SAP-integratie
 - **Bachelor Revalidatiewetenschappen & Kinesitherapie (1e jaar)** – Universiteit Gent (2024)
     * Topresultaten in wetenschappelijke vakken
 - **Pro Trainer Niveau 1 & 2: Préférences Motrices Naturelles** – Volodalen, Zwitserland (2024)
-- **Trainer B Triatlon:** Vlaamse Trainersschool (2021)
+- **Initiator Triatlon & Trainer B (Algemeen gedeelte):** Vlaamse Trainersschool (2021)
 
 
 ## TALEN & SPORTIEVE HIGHLIGHTS
