@@ -9,7 +9,7 @@ Medium: https://medium.com/@kaz.verstraete
 ## PROFIEL
 Analytische denker met een sterke drang om complexe systemen te begrijpen en te vereenvoudigen.
   
-Met een academische achtergrond in Finance en Fysiologie, en ervaring als topatleet en coach, specialiseer ik mij in end-to-end data pipelines en explainable AI.
+Met een academische achtergrond in Finance en Kinesitherapie, en ervaring als topatleet en coach, specialiseer ik mij in end-to-end data pipelines en explainable AI.
 Mijn sterkte ligt in deep work: het vertalen van ruwe, chaotische sensordata naar actiegerichte fysiologische inzichten — en die helder maken voor anderen. 
   
 Gedisciplineerd, sterk in focus en patroonherkenning.  
