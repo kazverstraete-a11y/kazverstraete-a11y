@@ -7,12 +7,10 @@ GitHub: https://github.com/kazverstraete-a11y
 Medium: https://medium.com/@kaz.verstraete
 ***
 ## PROFIEL
-Analytische denker met een sterke drang om complexe systemen te begrijpen en te vereenvoudigen.
+Data Engineer & Analist met unieke brugfunctie.
   
-Met een academische achtergrond in Finance en Kinesitherapie, en ervaring als topatleet en coach, specialiseer ik mij in end-to-end data pipelines en explainable AI.
-Mijn sterkte ligt in deep work: het vertalen van ruwe, chaotische sensordata naar actiegerichte fysiologische inzichten — en die helder maken voor anderen. 
-  
-Gedisciplineerd, sterk in focus en patroonherkenning.  
+MSc Corporate Finace, academische scholing in medische wetenschappen en 15 jaar topsport ervaring spreek ik de taal van de business, de wetenschapper én de data. Sterk in focus en patroonherkenning. Gespecialiseerd in het bouwen van end-to-end data pipelines (Python, SQL, Parquet) en Explainable AI voor complexe fysiologische en sensordata.
+
 "Ja is ja, neen is neen"-mentaliteit. 
 
 ## TECHNISCHE SKILLS
