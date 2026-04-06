@@ -19,7 +19,7 @@ MSc Corporate Finace, academische scholing in medische wetenschappen en 15 jaar 
 * **Machine Learning:** Scikit-learn, PyTorch, Random Forest, SHAP (explainability)
 * **Feature Engineering:** EWMA, fysiologische markers
 * **Visualisatie:** Tableau, Matplotlib, Seaborn
-* **Cloud & Tools:** Azure Data Science (DP-100 in progress), Git, VS Code  
+* **Cloud & Tools:** Microsoft Certified: Fabric Data Engineer Associate (DP-700 in progress), Git, VS Code  
 
 ## KEY PROJECTS
 
