@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # Kaz Verstraete  
-Data Scientist | Endurance Performance | Systems Architect  
+Data Engineer | Endurance Performance | Systems Architect  
 Brugge, België | +32 472 135 798 | kaz.verstraete@gmail.com  
 GitHub: https://github.com/kazverstraete-a11y  
 Medium: https://medium.com/@kaz.verstraete
@@ -19,7 +19,7 @@ MSc Corporate Finace, academische scholing in medische wetenschappen en 15 jaar 
 * **Machine Learning:** Scikit-learn, PyTorch, Random Forest, SHAP (explainability)
 * **Feature Engineering:** EWMA, fysiologische markers
 * **Visualisatie:** Tableau, Matplotlib, Seaborn
-* **Cloud & Tools:** Microsoft Certified: Fabric Data Engineer Associate (DP-700 in progress), Git, VS Code  
+* **Cloud & Tools:** Microsoft Certified: Fabric Data Engineer Associate (DP-700 in progress)
 
 ## KEY PROJECTS
 
