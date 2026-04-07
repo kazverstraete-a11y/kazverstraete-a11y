@@ -9,7 +9,7 @@ Medium: https://medium.com/@kaz.verstraete
 ## PROFIEL
 Data Engineer & Analist met unieke brugfunctie.
   
-MSc Corporate Finace, academische scholing in medische wetenschappen en 15 jaar topsport ervaring spreek ik de taal van de business, de wetenschapper én de data. Sterk in focus en patroonherkenning. Gespecialiseerd in het bouwen van end-to-end data pipelines (Python, SQL, Parquet) en Explainable AI voor complexe fysiologische en sensordata.
+Als MSc Corporate Finance met academische scholing in medische wetenschappen en 15 jaar topsport ervaring spreek ik de taal van de business, de wetenschapper én de data. Sterk in focus en patroonherkenning. Gespecialiseerd in het bouwen van end-to-end data pipelines (Python, SQL, Parquet) en Explainable AI voor complexe fysiologische en sensordata.
 
 "Ja is ja, neen is neen"-mentaliteit. 
 
@@ -19,7 +19,7 @@ MSc Corporate Finace, academische scholing in medische wetenschappen en 15 jaar 
 * **Machine Learning:** Scikit-learn, PyTorch, Random Forest, SHAP (explainability)
 * **Feature Engineering:** EWMA, fysiologische markers
 * **Visualisatie:** Tableau, Matplotlib, Seaborn
-* **Cloud & Tools:** Microsoft Certified: Fabric Data Engineer Associate (DP-700 in progress)
+* **Cloud & Tools:** Microsoft Certified: Fabric Data Engineer Associate (DP-700 in progress tot mei 2026)
 
 ## KEY PROJECTS
 
