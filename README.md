@@ -21,7 +21,7 @@ Sterk in het vertalen van complexe data naar robuuste, interpreteerbare systemen
 - Python, SQL, Pyspark
 - Apache Parquet, Delta Lake
 - Date Pipelines & ETL
-### Cloud & Platform:**
+### Cloud & Platform:
 - Microsoft Fabric (OneLake, Power Bi, KQL, T-SQL)
 - Version control (DevOps, Git)
 
