@@ -1,5 +1,3 @@
-### Hi there 👋
-
 # Kaz Verstraete  
 Data Engineer | Analytics Engineering | Systems Architect  
 Brugge, België | +32 472 135 798 | kaz.verstraete@gmail.com  
