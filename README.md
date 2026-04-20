@@ -7,26 +7,30 @@ GitHub: https://github.com/kazverstraete-a11y
 Medium: https://medium.com/@kaz.verstraete
 ***
 ## PROFIEL
-Data Engineer & Analist met unieke brugfunctie.
-  
-Als MSc Corporate Finance, bijkomende academische scholing in medische wetenschappen en 15 jaar topsport ervaring spreek ik de taal van de business, de wetenschapper én de data. Sterk in focus en patroonherkenning. Gespecialiseerd in het bouwen van end-to-end data pipelines (Python, SQL, Parquet) en Explainable AI voor complexe fysiologische en sensordata.
+Data Engineer & Analyst met focus op het bouwen van end-to-end datapipelines.
 
-"Ja is ja, neen is neen"-mentaliteit. 
+Met een achtergrond in corporate finance, medische wetenschappen en topsport combineer ik domeinkennis met technische implementatie. Gespecialiseerd in het structureren van ruwe sensordata (.FIT) naar analytics-ready datasets via Python, SQL en Parquet.
+
+Momenteel werk ik aan het opschalen van deze pipeline in Microsoft Fabric (PySpark, Delta/Lakehouse, KQL) om een meer geautomatiseerde en production-ready architectuur te bouwen.
+
+Sterk in het vertalen van complexe data naar robuuste, interpreteerbare systemen.
 
 ## TECHNISCHE SKILLS
 
-* **Talen & Data:** Python (gevorderd), SQL, Parquet 
-* **Machine Learning:** Scikit-learn, PyTorch, Random Forest, SHAP (explainability)
-* **Feature Engineering:** EWMA, fysiologische markers
-* **Visualisatie:** Tableau, Matplotlib, Seaborn
-* **Cloud & Tools:** Microsoft Certified: Fabric Data Engineer Associate (DP-700 in progress tot mei 2026)
+* **Data & Engineering:**
+- Python, SQL, Pyspark
+- Apache Parquet, Delta Lake
+- Date Pipelines & ETL
+* **Cloud & Platform:**
+- Microsoft Fabric (OneLake, Power Bi, KQL, T-SQL)
+- Version control (DevOps, Git)
 
 ## KEY PROJECTS
 
 ### [Reconstructing Training Behavior from Raw .FIT Data (2026)](https://github.com/kazverstraete-a11y/cycling-performance-model)
-End-to-end data pipeline & Explainable ML model die rauwe sensordata transformeert naar fysiologische inzichten.
+End-to-end pipeline die ruwe .FIT sensordata omzet naar gestructureerde datasets, inclusief feature engineering, intervaldetectie en explainable modelling. Momenteel opgeschaald in Microsoft Fabric met gebruik van PySpark en een OneLake architectuur.
 
-- Verwerkte 880+ .FIT-bestanden (~miljoenen datapunten) naar geoptimaliseerde Parquet datasets  
+- Originele vesie Verwerkte 880+ .FIT-bestanden naar geoptimaliseerde Parquet datasets  
 - Ontwikkelde een intervalclassifier die 70.000+ inspanningen identificeert in 17 categorieën  
 - Bouwde een Random Forest model voor adaptatie-indicatoren (5-fold cross-validatie)  
 - Technisch gevalideerd door industrie-experts en academische peers (Medium)
