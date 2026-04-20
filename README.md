@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # Kaz Verstraete  
-Data Engineer | Endurance Performance | Systems Architect  
+Data Engineer | Analytics Engineering | Systems Architect  
 Brugge, België | +32 472 135 798 | kaz.verstraete@gmail.com  
 GitHub: https://github.com/kazverstraete-a11y  
 Medium: https://medium.com/@kaz.verstraete
@@ -11,17 +11,17 @@ Data Engineer & Analyst met focus op het bouwen van end-to-end datapipelines.
 
 Met een achtergrond in corporate finance, medische wetenschappen en topsport combineer ik domeinkennis met technische implementatie. Gespecialiseerd in het structureren van ruwe sensordata (.FIT) naar analytics-ready datasets via Python, SQL en Parquet.
 
-Momenteel werk ik aan het opschalen van deze pipeline in Microsoft Fabric (PySpark, Delta/Lakehouse, KQL) om een meer geautomatiseerde en production-ready architectuur te bouwen.
+Momenteel werk ik aan het opschalen van deze pipeline in Microsoft Fabric (PySpark, OneLake, KQL) om een meer geautomatiseerde en production-ready architectuur te bouwen.
 
 Sterk in het vertalen van complexe data naar robuuste, interpreteerbare systemen.
 
 ## TECHNISCHE SKILLS
 
-* **Data & Engineering:**
+### Data & Engineering:
 - Python, SQL, Pyspark
 - Apache Parquet, Delta Lake
 - Date Pipelines & ETL
-* **Cloud & Platform:**
+### Cloud & Platform:**
 - Microsoft Fabric (OneLake, Power Bi, KQL, T-SQL)
 - Version control (DevOps, Git)
 
