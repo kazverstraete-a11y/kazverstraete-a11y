@@ -1,5 +1,5 @@
 # Kaz Verstraete  
-Data Engineer | Analytics Engineering | Systems Architect  
+Data Engineer | Analytics & BI
 Brugge, België | +32 472 135 798 | kaz.verstraete@gmail.com  
 GitHub: https://github.com/kazverstraete-a11y  
 Medium: https://medium.com/@kaz.verstraete
@@ -15,17 +15,22 @@ Met een achtergrond in corporate finance, medische wetenschappen en topsport com
 ### Data & Engineering:
 - Python, SQL, Pyspark
 - Apache Parquet, Delta Lake
-- Date Pipelines & ETL
+- ETL / ELT
+  
 ### Cloud & Platform:
 - Microsoft Fabric (OneLake, Power Bi, KQL, T-SQL)
 - Version control (DevOps, Git)
 
+### Reporting
+- Data modelling (star schema / dimensioneel denken)
+- Power BI / Tableau
+  
 ## KEY PROJECTS
 
 ### [Reconstructing Training Behavior from Raw .FIT Data (2026)](https://github.com/kazverstraete-a11y/cycling-performance-model)
 End-to-end pipeline die ruwe .FIT sensordata omzet naar gestructureerde datasets, inclusief feature engineering, intervaldetectie en explainable modelling. Wordt momenteel opgeschaald in Microsoft Fabric met gebruik van PySpark en een OneLake architectuur.
 
-- Originele vesie Verwerkte 880+ .FIT-bestanden naar geoptimaliseerde Parquet datasets  
+- Originele versie Verwerkte 880+ .FIT-bestanden naar geoptimaliseerde Parquet datasets  
 - Ontwikkelde een intervalclassifier die 70.000+ inspanningen identificeert in 17 categorieën  
 - Bouwde een Random Forest model voor adaptatie-indicatoren (5-fold cross-validatie)  
 - Technisch gevalideerd door industrie-experts en academische peers (Medium)
@@ -51,8 +56,8 @@ End-to-end pipeline die ruwe .FIT sensordata omzet naar gestructureerde datasets
 ## WERKERVARINGEN
 
 - **Oprichter & Performance Coach | Nevernotmoving.be (2019 – 2025)**   
-Data-gedreven begeleiding van profielen met ambitie (Ironman Hawaii & 70.3 WC kwalificaties, sub-3u marathons (mannen en vrouwen)).
-Systeemgerichte aanpak rond trainingsbelasting, fysiologie en biomechanica.
+Data-gedreven begeleiding voor mannen & vrouwen met ambitie (Ironman Hawaii & 70.3 WC kwalificaties, sub-3u marathons).
+Analyse van trainingsdata rond trainingsbelasting, fysiologie en biomechanica en ontwikkeling van datagedreven inzichten. Structureren van datasets voor opvolging performance-indicatoren. 
 
 - **Decathlon Zwitserland | Lausanne & Villeneuve (VD) (2021 - 2023)**  
 Combinatie met Nevernotmoving.be en eigen carrière als atleet
