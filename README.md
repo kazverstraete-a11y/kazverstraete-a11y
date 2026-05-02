@@ -7,11 +7,8 @@ Medium: https://medium.com/@kaz.verstraete
 ## PROFIEL
 Data Engineer & Analyst met focus op het bouwen van end-to-end datapipelines.
 
-Met een achtergrond in corporate finance, medische wetenschappen en topsport combineer ik domeinkennis met technische implementatie. Gespecialiseerd in het structureren van ruwe sensordata (.FIT) naar analytics-ready datasets via Python, SQL en Parquet.
+Met een achtergrond in corporate finance, medische wetenschappen en topsport combineer ik domeinkennis met technische implementatie. Sterk in het vertalen van complexe data naar robuuste, cloud-based, interpreteerbare systemen
 
-Momenteel werk ik aan het opschalen van deze pipeline in Microsoft Fabric (PySpark, OneLake, KQL) om een meer geautomatiseerde en production-ready architectuur te bouwen.
-
-Sterk in het vertalen van complexe data naar robuuste, interpreteerbare systemen.
 
 ## TECHNISCHE SKILLS
 
@@ -26,7 +23,7 @@ Sterk in het vertalen van complexe data naar robuuste, interpreteerbare systemen
 ## KEY PROJECTS
 
 ### [Reconstructing Training Behavior from Raw .FIT Data (2026)](https://github.com/kazverstraete-a11y/cycling-performance-model)
-End-to-end pipeline die ruwe .FIT sensordata omzet naar gestructureerde datasets, inclusief feature engineering, intervaldetectie en explainable modelling. Momenteel opgeschaald in Microsoft Fabric met gebruik van PySpark en een OneLake architectuur.
+End-to-end pipeline die ruwe .FIT sensordata omzet naar gestructureerde datasets, inclusief feature engineering, intervaldetectie en explainable modelling. Wordt momenteel opgeschaald in Microsoft Fabric met gebruik van PySpark en een OneLake architectuur.
 
 - Originele vesie Verwerkte 880+ .FIT-bestanden naar geoptimaliseerde Parquet datasets  
 - Ontwikkelde een intervalclassifier die 70.000+ inspanningen identificeert in 17 categorieën  
